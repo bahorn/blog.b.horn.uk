@@ -158,7 +158,7 @@ class ECKey:
 
 
 You will notice this calls `compress()` and `decompress()`, which we will
-implement next. The slightly weird `gen_key()` implementationis so the public
+implement next. The slightly weird `gen_key()` implementation is so the public
 key always has an even y coordinate, which is just a space saving measure for
 the compression part.
 
