@@ -35,6 +35,8 @@ The idea is partly inspired by how `alt.anonymous.messages` worked, where you
 would have to try and attempt to decrypt every message posted to group to find
 messages meant for you, which is one way of implementing a [PIR scheme](https://en.wikipedia.org/wiki/Private_information_retrieval).
 
+Source is here [@bahorn/dht-spirits](https://github.com/bahorn/dht-spirits).
+
 ## Construction
 
 We need to do a few things:
