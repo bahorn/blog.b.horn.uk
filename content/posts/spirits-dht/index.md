@@ -2,9 +2,9 @@
 title: Finding Lost Spirits in the DHT
 date: 2024-12-28
 draft: False
+banner: header.png
+banner_desc: View from the Grand Dune in Merzouga, Morocco
 ---
-
-{{< figure src="header.png" title="View from the Grand Dune in Merzouga, Morocco" >}}
 
 I was curious about constructing an ID scheme that has a watermark that can only
 be verified by those with a private key.

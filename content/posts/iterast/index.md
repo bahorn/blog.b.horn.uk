@@ -2,9 +2,9 @@
 title: Iterast
 date: 2024-01-21
 draft: False
+banner: header.png
+banner_desc: View around Torr Head, Northern Ireland
 ---
-
-{{< figure src="header.png" title="View around Torr Head, Northern Ireland" >}} 
 
 I'll start off this blog with a post on something I hacked up a few days ago.
 

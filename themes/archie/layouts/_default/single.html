@@ -11,6 +11,14 @@
 			{{ .Params.tldr }}
 		</div>{{ end }}
 
+        {{ if isset .Params "banner" }}
+        <section class="banner">
+            <figure>
+                <img src="{{ .Params.banner }}" />
+                {{if isset .Params "banner_desc" }}<figurecaption><h4>{{ .Params.banner_desc }}</h4></figurecaption>{{ end }}
+            </figure>
+        </section>{{ end }}
+
 		<section class="body">
 			{{ .Content }}
 		</section>
