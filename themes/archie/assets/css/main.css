@@ -54,6 +54,7 @@ a:hover {
 }
 
 ul {
+  font-family: 'Fira Sans', sans-serif;
   list-style: none;
   padding-left: 2ch;
 }
@@ -84,7 +85,7 @@ figure img {
 
 @media screen and (min-width: 600px) {
   figure {
-    padding: 0 40px;
+    padding: 0 20px;
   }
 }
 
